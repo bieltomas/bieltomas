@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel tomàs vidal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel tomàs vidal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-tom%c3%a0s-vidal-7952b426a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-tom%c3%a0s-vidal-7952b426a/" height="30" width="40" /></a>
 <a href="https://discord.gg/BToMas#4310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BToMas#4310" height="30" width="40" /></a>
 </p>
 
